@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fa6945f-5450-4ef9-9836-16c6b976aa3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rhqhHF005lRvrev3UZwfrU7OcC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/trade" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.GridTrade">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GridTrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trade/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GridTrade" type="Python.DjangoServer" factoryName="Django server">
+      <module name="GridTrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="GridTrade.settings" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="0.0.0.0" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.GridTrade" />
+      <item itemvalue="Python.tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fa6945f-5450-4ef9-9836-16c6b976aa3b" name="Default Changelist" comment="" />
+      <created>1619438786557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619438786557</updated>
+      <workItem from="1619438792912" duration="35311000" />
+      <workItem from="1619692369059" duration="1288000" />
+      <workItem from="1619713567859" duration="833000" />
+      <workItem from="1619714566796" duration="14104000" />
+      <workItem from="1619838354969" duration="18761000" />
+      <workItem from="1619861931627" duration="1167000" />
+      <workItem from="1619923520934" duration="916000" />
+      <workItem from="1619944520367" duration="15090000" />
+      <workItem from="1620126477109" duration="22006000" />
+      <workItem from="1620299057752" duration="115000" />
+      <workItem from="1620309250061" duration="22000" />
+      <workItem from="1620310047143" duration="3169000" />
+      <workItem from="1620351251243" duration="392000" />
+      <workItem from="1620407758508" duration="3791000" />
+      <workItem from="1620418150057" duration="1001000" />
+      <workItem from="1620439762770" duration="792000" />
+      <workItem from="1620452099254" duration="4608000" />
+      <workItem from="1620483981252" duration="1356000" />
+      <workItem from="1620550789584" duration="524000" />
+      <workItem from="1620591897536" duration="1316000" />
+      <workItem from="1620630505474" duration="9387000" />
+      <workItem from="1620660331886" duration="620000" />
+      <workItem from="1620699261454" duration="1589000" />
+      <workItem from="1620702265261" duration="14396000" />
+      <workItem from="1620889522155" duration="1219000" />
+      <workItem from="1620976090989" duration="43000" />
+      <workItem from="1621223269571" duration="4064000" />
+      <workItem from="1621354148470" duration="595000" />
+      <workItem from="1621407642828" duration="25000" />
+      <workItem from="1621407741328" duration="15546000" />
+      <workItem from="1621480004147" duration="12381000" />
+      <workItem from="1621539152244" duration="302000" />
+      <workItem from="1621540296335" duration="493000" />
+      <workItem from="1621992733333" duration="202000" />
+      <workItem from="1622085508520" duration="1669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620290372498">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="104" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1619713626070" />
+    <state x="104" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.737@0.23.1280.737" timestamp="1620290372498" />
+    <state x="354" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619853955254">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="354" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.730@0.23.1280.730" timestamp="1619439778236" />
+    <state x="354" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.733@0.23.1280.733" timestamp="1619853955254" />
+    <state width="1238" height="90" key="GridCell.Tab.0.bottom" timestamp="1621537735372">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1620126779049" />
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1620127098979" />
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1620200333707" />
+    <state width="1238" height="223" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1621480635479" />
+    <state width="1238" height="219" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1619720407163" />
+    <state width="1238" height="90" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1621537735372" />
+    <state width="1238" height="226" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1621231349245" />
+    <state width="1238" height="295" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1620644261657" />
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1620280731002" />
+    <state width="1238" height="226" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1621417172885" />
+    <state width="1238" height="223" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1621414217048" />
+    <state width="1238" height="48" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1621478939341" />
+    <state width="1238" height="38" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1620751238134" />
+    <state width="1238" height="90" key="GridCell.Tab.0.center" timestamp="1621537735371">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1620126779046" />
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1620127098978" />
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1620200333706" />
+    <state width="1238" height="223" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1621480635477" />
+    <state width="1238" height="219" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1619720407162" />
+    <state width="1238" height="90" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1621537735371" />
+    <state width="1238" height="226" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1621231349244" />
+    <state width="1238" height="295" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1620644261656" />
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1620280730998" />
+    <state width="1238" height="226" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1621417172883" />
+    <state width="1238" height="223" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1621414217047" />
+    <state width="1238" height="48" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1621478939340" />
+    <state width="1238" height="38" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1620751238132" />
+    <state width="1238" height="90" key="GridCell.Tab.0.left" timestamp="1621537735370">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1620126779043" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1620127098978" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1620200333705" />
+    <state width="1238" height="223" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1621480635475" />
+    <state width="1238" height="219" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1619720407162" />
+    <state width="1238" height="90" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1621537735370" />
+    <state width="1238" height="226" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1621231349242" />
+    <state width="1238" height="295" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1620644261655" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1620280730997" />
+    <state width="1238" height="226" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1621417172883" />
+    <state width="1238" height="223" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1621414217046" />
+    <state width="1238" height="48" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1621478939339" />
+    <state width="1238" height="38" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1620751238132" />
+    <state width="1238" height="90" key="GridCell.Tab.0.right" timestamp="1621537735372">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1620126779047" />
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1620127098979" />
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1620200333706" />
+    <state width="1238" height="223" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1621480635478" />
+    <state width="1238" height="219" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1619720407163" />
+    <state width="1238" height="90" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1621537735372" />
+    <state width="1238" height="226" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1621231349245" />
+    <state width="1238" height="295" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1620644261656" />
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1620280730999" />
+    <state width="1238" height="226" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1621417172884" />
+    <state width="1238" height="223" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1621414217048" />
+    <state width="1238" height="48" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1621478939340" />
+    <state width="1238" height="38" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1620751238133" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom" timestamp="1621537732565">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.727@0.23.1280.727" timestamp="1621480640513" />
+    <state width="1238" height="219" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1619720407165" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1621537732565" />
+    <state width="1238" height="219" key="GridCell.Tab.1.bottom/0.23.1280.730@0.23.1280.730" timestamp="1619981138791" />
+    <state width="1238" height="219" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1619980676816" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.734@0.23.1280.734" timestamp="1621416785785" />
+    <state width="1238" height="219" key="GridCell.Tab.1.bottom/0.23.1280.735@0.23.1280.735" timestamp="1620126222498" />
+    <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.736@0.23.1280.736" timestamp="1621478939298" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center" timestamp="1621537732564">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.727@0.23.1280.727" timestamp="1621480640511" />
+    <state width="1238" height="219" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1619720407164" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1621537732564" />
+    <state width="1238" height="219" key="GridCell.Tab.1.center/0.23.1280.730@0.23.1280.730" timestamp="1619981138790" />
+    <state width="1238" height="219" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1619980676815" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.734@0.23.1280.734" timestamp="1621416785783" />
+    <state width="1238" height="219" key="GridCell.Tab.1.center/0.23.1280.735@0.23.1280.735" timestamp="1620126222496" />
+    <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.736@0.23.1280.736" timestamp="1621478939297" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left" timestamp="1621537732563">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.727@0.23.1280.727" timestamp="1621480640510" />
+    <state width="1238" height="219" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1619720407164" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1621537732563" />
+    <state width="1238" height="219" key="GridCell.Tab.1.left/0.23.1280.730@0.23.1280.730" timestamp="1619981138790" />
+    <state width="1238" height="219" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1619980676815" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.734@0.23.1280.734" timestamp="1621416785783" />
+    <state width="1238" height="219" key="GridCell.Tab.1.left/0.23.1280.735@0.23.1280.735" timestamp="1620126222495" />
+    <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.736@0.23.1280.736" timestamp="1621478939297" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right" timestamp="1621537732564">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1621480640512" />
+    <state width="1238" height="219" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1619720407165" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.729@0.23.1280.729" timestamp="1621537732564" />
+    <state width="1238" height="219" key="GridCell.Tab.1.right/0.23.1280.730@0.23.1280.730" timestamp="1619981138791" />
+    <state width="1238" height="219" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1619980676816" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.734@0.23.1280.734" timestamp="1621416785784" />
+    <state width="1238" height="219" key="GridCell.Tab.1.right/0.23.1280.735@0.23.1280.735" timestamp="1620126222496" />
+    <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.736@0.23.1280.736" timestamp="1621478939298" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/utils.py</url>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>500</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>505</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>509</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>511</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>515</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>517</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>514</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>519</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>524</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>526</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/views.py</url>
+          <line>550</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>430</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>848</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>850</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>855</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>859</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>858</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>863</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>864</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>865</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>873</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>868</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>877</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>875</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>878</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>489</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>487</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>490</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>494</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>497</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>499</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>501</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>505</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>507</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>509</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>511</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>518</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>516</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>525</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>521</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>529</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>532</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>535</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>538</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>536</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>543</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>549</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>552</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>556</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>559</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>568</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>570</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>575</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>573</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>578</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>581</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>585</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>586</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>590</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>588</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>589</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>594</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>597</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>596</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>598</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>607</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>602</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>600</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>605</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>609</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>619</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>626</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>634</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>631</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>629</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>632</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>638</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>636</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>640</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>644</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>651</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>654</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>666</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>660</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>664</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>676</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>681</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>686</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>700</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>695</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>705</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>703</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>713</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>710</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>708</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>712</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>720</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>725</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>727</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>425</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>438</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>440</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>448</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>455</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>461</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>463</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>474</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>477</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>729</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>751</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trade/mxc_task.py</url>
+          <line>756</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GridTrade$tests.coverage" NAME="tests Coverage Results" MODIFIED="1619662565414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trade" />
+  </component>
+</project>
